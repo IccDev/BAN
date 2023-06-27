@@ -412,7 +412,7 @@ span.psw {
             <div id="contenair-articles" >
               
               <div id="trombi-pst-principale" class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/SABOUKOULOU_Christian.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/SABOUKOULOU_Christian.jpg');"></div>
               <div class="txt-trombi-personne">
                 <h1 class="titre-bulle-pop-up">Christian Saboukoulou <br>Pasteur principal et leader des églises ICC BENELUX</h1>
               </div>
@@ -420,7 +420,7 @@ span.psw {
             </div>
 
             <div class="contenair-trombi-personne"><!--/Ban/images/trombinoscope/star/evelyne_saboukoulou.jpg' -->
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/SABOUKOULOU_Evelyne.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/SABOUKOULOU_Evelyne.jpg');"></div>
               <div class="txt-trombi-personne">
                 <h1 class="titre-bulle-pop-up">Evelyne Saboukoulou <br>Pasteur<br>Bruxelles</h1>
               </div>
@@ -436,46 +436,46 @@ span.psw {
             </div>-->
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/MBOG_Dominique.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/MBOG_Dominique.jpg');"></div>
               <div class="txt-trombi-personne">
               <h1 class="titre-bulle-pop-up"> Dominique Mbog<br>Pasteur<br>Anvers</h1></div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('/Ban/img/corpsPastorale/ZOLA_Eric.jpg');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/ZOLA_Eric.jpg');"></div>
               <div class="txt-trombi-personne-gauche">
                <h1 class="titre-bulle-pop-up">Eric Zola <br>Pasteur<br>Bruxelles</h1>
               </div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('/Ban/img/corpsPastorale/Jacques_NZADOU.jpg');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/Jacques_NZADOU.jpg');"></div>
               <div class="txt-trombi-personne-gauche">
                  <h1 class="titre-bulle-pop-up">Jacques NZADOU <br>Pasteur<br>Liège</h1>
               </div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/Erik_BONIMPA.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/Erik_BONIMPA.jpg');"></div>
               <div class="txt-trombi-personne">
                 <h1 class="titre-bulle-pop-up">  Erik BONIMPA <br>Resp. ICC Hollande<br>Pays-Bas</h1>
               </div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/Martial_NANTI.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/Martial_NANTI.jpg');"></div>
               <div class="txt-trombi-personne">
               <h1 class="titre-bulle-pop-up"> Martial NANTI <br>Assistant-Pasteur<br>Luxembourg</h1></div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('/Ban/img/corpsPastorale/marie-armelle_alihonou.jpg'); background-position: auto;"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/marie-armelle_alihonou.jpg'); background-position: auto;"></div>
               <div class="txt-trombi-personne-gauche">
               <h1 class="titre-bulle-pop-up"> Marie-Armelle ALIHONOU<br>Assistante-Pasteur<br>Bruxelles</h1></div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('/Ban/img/corpsPastorale/NGALEU-Alain_Patrice.jpg');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/NGALEU-Alain_Patrice.jpg');"></div>
               <div class="txt-trombi-personne-gauche">
                 <h1 class="titre-bulle-pop-up"> Alain Patrice NGALEU <br>Assistant-Pasteur<br>Charleroi</h1>
               </div>
@@ -484,20 +484,20 @@ span.psw {
             
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/');"></div>
               <div class="txt-trombi-personne">
                 <h1 class="titre-bulle-pop-up"> Pino IKAMA<br>Assistant-Pasteur<br>Bruxelles</h1>
               </div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/godwin_agbemavor.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/godwin_agbemavor.jpg');"></div>
               <div class="txt-trombi-personne">
               <h1 class="titre-bulle-pop-up"> Godwin Agbemavor<br>Assistant-Pasteur<br>Bruxelles</h1></div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('/Ban/img/corpsPastorale/');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/');"></div>
               <div class="txt-trombi-personne-gauche">
                 <h1 class="titre-bulle-pop-up"> Collins Iwe<br>Assistant-Pasteur<br>Bruxelles</h1>
               </div>
