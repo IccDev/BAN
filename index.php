@@ -256,7 +256,7 @@
 				<div id="logo-app" style="background-image: url(img/imgForamations/301.png);"></div>
 				<h1 id="nom-app">301</h1>
 			</a></div>-->
-			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';"  href="formulaire/formjuridique.php" target='dva-docx-iframe'>
+			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';"  href="formulaire/formJuridique.php" target='dva-docx-iframe'>
 				<div id="logo-app" style="background-image: url(img/imgForamations/iconeAideJuridique.jpg);"></div>
 				<h1 id="nom-app"><!--Aide--> Juridique</h1>
 			</a></div>

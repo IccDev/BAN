@@ -101,7 +101,7 @@
           height: 250px;
           animation: battementCoeur infinite 2s;
         }
-        ##butonCategories:hover{
+        #butonCategories:hover{
           border: 2px solid #fff;
           transform: scale(1.1);
         }

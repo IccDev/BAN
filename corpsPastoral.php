@@ -420,7 +420,7 @@ span.psw {
             </div>
 
             <div class="contenair-trombi-personne"><!--/Ban/images/trombinoscope/star/evelyne_saboukoulou.jpg' -->
-              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/SABOUKOULOU_Evelyne.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/SABOUKOULOU_Evelyne.JPG');"></div>
               <div class="txt-trombi-personne">
                 <h1 class="titre-bulle-pop-up">Evelyne Saboukoulou <br>Pasteur<br>Bruxelles</h1>
               </div>
@@ -449,7 +449,7 @@ span.psw {
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/Jacques_NZADOU.jpg');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/Jacques_NZADOU.JPG');"></div>
               <div class="txt-trombi-personne-gauche">
                  <h1 class="titre-bulle-pop-up">Jacques NZADOU <br>Pasteur<br>Liège</h1>
               </div>
@@ -469,15 +469,15 @@ span.psw {
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/marie-armelle_alihonou.jpg'); background-position: auto;"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/marie-armelle_alihonou.JPG'); background-position: auto;"></div>
               <div class="txt-trombi-personne-gauche">
               <h1 class="titre-bulle-pop-up"> Marie-Armelle ALIHONOU<br>Assistante-Pasteur<br>Bruxelles</h1></div>
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/NGALEU-Alain_Patrice.jpg');"></div>
+              <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/NGALEU-Alain_Patrice.JPG');"></div>
               <div class="txt-trombi-personne-gauche">
-                <h1 class="titre-bulle-pop-up"> Alain Patrice NGALEU <br>Assistant-Pasteur<br>Charleroi</h1>
+                <h1 class="titre-bulle-pop-up"> Alain Patrice NGALEU <br>Pasteur<br>Charleroi</h1>
               </div>
             </div>
 
@@ -491,7 +491,7 @@ span.psw {
             </div>
 
             <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/godwin_agbemavor.jpg');"></div>
+              <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/godwin_agbemavor.JPG');"></div>
               <div class="txt-trombi-personne">
               <h1 class="titre-bulle-pop-up"> Godwin Agbemavor<br>Assistant-Pasteur<br>Bruxelles</h1></div>
             </div>
