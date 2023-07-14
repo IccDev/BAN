@@ -39,7 +39,7 @@ $adresseExp = $_POST['email'];//expeditaire
 //$adresseDest = "juridique@impactcentrechretien.be";//"dieumerci.kanongo@impactcentrechretien.be";//destinataire
 $objet = "Nouvelle demande de RDV : ".$titre." ".strtoupper($nom)." ".ucfirst(strtolower($prenom));
 $titre= $titre." ".strtoupper($nom)." ".ucfirst(strtolower($prenom))."\n";
-$message = $message;
+$message = $message.'';
 
 $message2 = "Nous accusons réception de votre inscription à la permanence d’Impact Juridique.\n";
 $message2 = $message2. "\n";
