@@ -599,22 +599,22 @@ function myMove() {
 		<div class="contenair-slide" id="contenair-slide">
 			<a onclick="myMove()"  href="https://impactcentrechretien.elvanto.eu/form/b8e3f9e4-0a0a-440e-ad95-334e4e9f21cd" target='dva-docx-iframe'><div id="cartes"  >
 				<h1 id="nom-cartes">Daphney-Chloé N</h1>
-				<div id="pdpCartes" style="background-image: url('../img/dcn.png');"></div>
+				<div id="pdpCartes" style="background-image: url('../img/fourth.png');"></div>
 				<h1 id="nom-cartes">Métier/Métier<br>teste@gmail.com</h1>
 			</div></a> 
 			<a onclick="document.getElementById('contenair-formulaire').style.display='block';document.getElementById('contenair-slide').style.filter='blur(20px)';document.getElementById('contenair-slide').style.animation='blury 1.5s;';document.getElementById('rideau').style.display='block';" ><div id="cartes"  >
 				<h1 id="nom-cartes">Jason Ponda</h1>
-				<div id="pdpCartes" style="background-image: url('../img/jp.png');"></div>
+				<div id="pdpCartes" style="background-image: url('../img/sixt.png');"></div>
 				<h1 id="nom-cartes">Métier/Métier<br>teste@gmail.com</h1>
 			</div></a>
 			<a onclick="document.getElementById('contenair-formulaire').style.display='block';document.getElementById('rideau').style.display='block';"  href="https://impactcentrechretien.elvanto.eu/form/b8e3f9e4-0a0a-440e-ad95-334e4e9f21cd" target='dva-docx-iframe'> <div id="cartes"  >
 				<h1 id="nom-cartes">Joseph Max Monemou</h1>
-				<div id="pdpCartes" style="background-image: url('../img/testpdp.jpeg');"></div>
+				<div id="pdpCartes" style="background-image: url('../img/second.png');"></div>
 				<h1 id="nom-cartes">Métier/Métier<br>teste@gmail.com</h1>
 			</div></a>
 			<a onclick="document.getElementById('contenair-formulaire').style.display='block';document.getElementById('rideau').style.display='block';"  href="https://impactcentrechretien.elvanto.eu/form/b8e3f9e4-0a0a-440e-ad95-334e4e9f21cd" target='dva-docx-iframe'> <div id="cartes"  >
 				<h1 id="nom-cartes">Michel Ngimbi</h1>
-				<div id="pdpCartes" style="background-image: url('../img/mn.png');"></div>
+				<div id="pdpCartes" style="background-image: url('../img/first.png');"></div>
 				<h1 id="nom-cartes">Métier/Métier<br>teste@gmail.com</h1>
 			</div></a>		
 		</div>
@@ -624,7 +624,7 @@ function myMove() {
             <iframe id="formulaire"   name="dva-docx-iframe" style="display: none;" ></iframe>
             
             <div id="cartes-extend">
-				<div id="pdpCartes-extend" style="background-image: url('img/jp.png');"></div>
+				<div id="pdpCartes-extend" style="background-image: url('../img/second.png');"></div>
 				<h1 id="nom-cartes-extend">Jason Ponda</h1>
 				<h1 id="nom-cartes-extend">Métier · Métier<br>teste@gmail.com</h1>
 			</div>

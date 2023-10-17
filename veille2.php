@@ -24,7 +24,7 @@
 		<header></header>
 		<h1 class="titre-contenair-apps">Formulaires</h1>
 		<div class="contenair-apps">
-			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="annuaire/annuaire.php" target='dva-docx-iframe'>
+			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="annuaire/index.php" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/open-book.png);"></div>
 					<h1 id="nom-app">Annuaire</h1>
 				</a></div>
