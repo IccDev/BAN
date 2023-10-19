@@ -164,6 +164,7 @@
 	\*------------------------------------------------*/
 	.contenair-slide {
 		width: 93%;
+		margin-top: 30px;
 		margin-left: auto;
 		margin-right: auto;
 		overflow: hidden;
@@ -355,6 +356,7 @@
 		overflow-x: scroll;
 		font-size: 40px;
 		margin-left: 5%;
+		text-align: center;
 	}
 
 	#info-cartes-extend {
@@ -457,7 +459,8 @@
 	}
 </style>
 
-<body onclick="document.getElementById('titre-veille').style.display='none';">
+<!--  onclick="document.getElementById('titre-veille').style.display='none';" -->
+<body>
 	<div class="background" onclick="document.getElementById('contenu').style.display='block';">
 		<video autoplay loop muted id="bgvid">
 			<source src="../img/logorotation.mp4" type="video/mp4">
@@ -640,9 +643,9 @@
 
 			#churchSelect {
 				height: 35px;
-				font-size: 1.5em;
+				font-size: 1em;
 				background: rgba(104, 74, 158, 0.8);
-				margin-left: 9%;
+				margin-left: 5%;
 				border: none;
 				outline: none;
 				border-radius: 5%;
@@ -695,6 +698,7 @@
 
 
 			<div id="cartes-extend">
+			<!-- .style.display='none' -->
 				<span onclick="document.getElementById('contenair-formulaire').style.display='none';document.getElementById('contenair-slide').style.filter='blur(0px)'" class="close" title="Close Modal">×</span>
 				<div id="pdpCartes-extend" style="background-image: url('images/jp.png');"></div>
 				<h1 id="nom-cartes-extend"></h1>
