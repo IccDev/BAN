@@ -722,7 +722,7 @@
 		function performSearch() {
 			var searchInput = document.getElementById("searchName").value.trim();
 			var selectedChurch = document.getElementById("churchSelect").value;
-			var apiUrl = "http://57.128.169.26:4012/user/search/";
+			var apiUrl = "https://57.128.169.26:4012/user/search/";
 
 			if (selectedChurch) {
 				apiUrl += "?church=" + encodeURIComponent(selectedChurch);
