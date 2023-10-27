@@ -675,7 +675,7 @@
 					</svg>
 				</button>
 			</div>
-			<select name="eglise" id="churchSelect">
+			<select name="eglise" id="churchSelect" onchange="performSearchOnSelectChange()">
 				<option value="">Sélectionnez une église</option>
 				<option value="Bruxelles">Bruxelles</option>
 				<option value="Liège">Liège</option>
@@ -735,6 +735,12 @@
 					apiUrl += "?key=" + encodeURIComponent(searchInput);
 				}
 			}
+
+			 // This function is called when the select element is changed
+			 function performSearchOnSelectChange() {
+            // Automatically trigger a search when the select option changes
+            performSearch();
+        }
 
 			fetch(apiUrl)
 				.then((response) => response.json())
