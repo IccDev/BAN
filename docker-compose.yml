@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  ban:
+      build: 
+        context: ./
+      container_name: ban
+      ports:
+        - 8080:80
