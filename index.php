@@ -22,35 +22,35 @@
 		<header></header>
 		<!-- <h1 class="titre-contenair-apps">Formulaires</h1> -->
 		<div class="contenair-apps">
-			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="annuaire/index.php" target='dva-docx-iframe'>
+			<!-- <div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="annuaire/index.php" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/open-book.png);"></div>
 					<h1 id="nom-app">Annuaire</h1>
-				</a></div>
+				</a></div> -->
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href=" https://impactcentrechretien.elvanto.eu/form/d91ad054-677e-4bf9-a89f-6faad376342e" target='dva-docx-iframe'>
-					<div id="logo-app" style="background-image: url(img/imgFormations/bdr_2.png);"></div>
-					<h1 id="nom-app">BDR</h1>
+					<div id="logo-app" style="background-image: url(img/imgFormations/101.png);"></div>
+					<h1 id="nom-app">Nos Formations</h1>
 				</a></div>
 
-			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href=" https://impactcentrechretien.elvanto.eu/form/d91ad054-677e-4bf9-a89f-6faad376342e" target='dva-docx-iframe'>
+			<!-- <div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href=" https://impactcentrechretien.elvanto.eu/form/d91ad054-677e-4bf9-a89f-6faad376342e" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/101.png);"></div>
 					<h1 id="nom-app">101</h1>
 				</a></div>
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href=" https://impactcentrechretien.elvanto.eu/form/d91ad054-677e-4bf9-a89f-6faad376342e" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/201.png);"></div>
 					<h1 id="nom-app">201</h1>
-				</a></div>
+				</a></div> -->
 			<!--<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';"  href="https://impactcentrechretien.elvanto.eu/form/5c2a0e20-7975-41c4-b1e0-e01122e3c82f/" target='dva-docx-iframe'>
 				<div id="logo-app" style="background-image: url(img/imgFormations/301.png);"></div>
 				<h1 id="nom-app">301</h1>
 			</a></div>-->
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="formulaire/formJuridique.php" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/iconeAideJuridique.jpg);"></div>
-					<h1 id="nom-app"><!--Aide--> Juridique</h1>
+					<h1 id="nom-app">Aide Juridique</h1>
 				</a></div>
 
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="formulaire/cureAme.php" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(https://bonlarron.org/wp-content/uploads/2014/02/Prier.png);"></div>
-					<h1 id="nom-app">Restauration</h1>
+					<h1 id="nom-app">Cure d'âme</h1>
 				</a></div>
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="https://impactcentrechretien.elvanto.eu/form/17e553e3-d8f0-4258-abec-ebc9f72539fc" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/empreinteDigitale.png);"></div>
@@ -58,16 +58,16 @@
 				</a></div>
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="formulaire/numeroDonateur.php" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/iconeDonation.jpg);"></div>
-					<h1 id="nom-app"><!--n°-->donateur</h1>
+					<h1 id="nom-app"><!--n°-->Dons</h1>
 				</a></div>
 			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="https://impactcentrechretien.elvanto.eu/form/7deee540-c3d1-4ef6-a858-6aafda9dbb87/" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(https://cdn.welcometothejungle.co/uploads/article/image/3639/155930/questions-entretien.png);"></div>
-					<h1 id="nom-app">RDV pastoraux</h1>
+					<h1 id="nom-app">Soins Pastoraux</h1>
 				</a></div>
-			<div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="https://impactcentrechretien.elvanto.eu/form/e693fd0b-8319-408e-a829-85bee282260d/" target='dva-docx-iframe'>
+			<!-- <div id="contenair-app"><a onclick="document.getElementById('contenair-formulaire').style.display='block';" href="https://impactcentrechretien.elvanto.eu/form/e693fd0b-8319-408e-a829-85bee282260d/" target='dva-docx-iframe'>
 					<div id="logo-app" style="background-image: url(img/imgFormations/iconeVisiteDomicile.jpg);"></div>
 					<h1 id="nom-app">Visite à domicile</h1>
-				</a></div>
+				</a></div> -->
 
 		</div>
 		<h1 class="titre-contenair-apps">L'église</h1>
@@ -288,7 +288,7 @@
 			<div class="bouton-parametres"></div>
 		</footer>
 	</div>
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 		(function() {
 
 			const idleDurationSecs = 240; // X number of seconds
@@ -312,7 +312,7 @@
 			);
 
 		})();
-	</script>
+	</script> -->
 </body>
 
 </html>

@@ -45,15 +45,6 @@
         </div>
       </div>
 
-      <!-- <div class="contenair-trombi-personne">
-              <div class="img-trombi-personne" style="background-image: url('/Ban/img/corpsPastorale/christian_copie.jpg');"></div>
-              <div class="txt-trombi-personne">
-                <h1 class="titre-bulle-pop-up">Christian Muntumbo <br>Pasteur <br>
-                Kinshasa
-                 </h1>
-              </div>
-            </div>-->
-
       <div class="contenair-trombi-personne">
         <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/MBOG_Dominique.jpg');"></div>
         <div class="txt-trombi-personne">
@@ -64,14 +55,7 @@
       <div class="contenair-trombi-personne">
         <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/ZOLA_Eric.jpg');"></div>
         <div class="txt-trombi-personne-gauche">
-          <h1 class="titre-bulle-pop-up">Eric Zola <br>Pasteur<br>Bruxelles</h1>
-        </div>
-      </div>
-
-      <div class="contenair-trombi-personne">
-        <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/Jacques_NZADOU.JPG');"></div>
-        <div class="txt-trombi-personne-gauche">
-          <h1 class="titre-bulle-pop-up">Jacques NZADOU <br>Pasteur<br>Liège</h1>
+          <h1 class="titre-bulle-pop-up">Eric Zola <br>Pasteur<br>Liège</h1>
         </div>
       </div>
 
@@ -90,40 +74,37 @@
       </div>
 
       <div class="contenair-trombi-personne">
-        <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/marie-armelle_alihonou.JPG'); background-position: auto;"></div>
-        <div class="txt-trombi-personne-gauche">
-          <h1 class="titre-bulle-pop-up"> Marie-Armelle ALIHONOU<br>Assistante-Pasteur<br>Bruxelles</h1>
-        </div>
-      </div>
-
-      <div class="contenair-trombi-personne">
         <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/NGALEU-Alain_Patrice.JPG');"></div>
         <div class="txt-trombi-personne-gauche">
           <h1 class="titre-bulle-pop-up"> Alain Patrice NGALEU <br>Pasteur<br>Charleroi</h1>
         </div>
       </div>
 
-
-
       <div class="contenair-trombi-personne">
+        <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/godwin_agbemavor.JPG');"></div>
+        <div class="txt-trombi-personne">
+          <h1 class="titre-bulle-pop-up"> Godwin Agbemavor<br>Assistant-Pasteur<br>Mons</h1>
+        </div>
+      </div>
+
+            <!-- <div class="contenair-trombi-personne">
+        <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/marie-armelle_alihonou.JPG'); background-position: auto;"></div>
+        <div class="txt-trombi-personne-gauche">
+          <h1 class="titre-bulle-pop-up"> Marie-Armelle ALIHONOU<br>Assistante-Pasteur<br>Bruxelles</h1>
+        </div>
+      </div> -->
+
+      <!-- <div class="contenair-trombi-personne">
         <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/');"></div>
         <div class="txt-trombi-personne">
           <h1 class="titre-bulle-pop-up"> Pino IKAMA<br>Assistant-Pasteur<br>Bruxelles</h1>
         </div>
-      </div>
-
-      <div class="contenair-trombi-personne">
-        <div class="img-trombi-personne" style="background-image: url('img/corpsPastoral/godwin_agbemavor.JPG');"></div>
-        <div class="txt-trombi-personne">
-          <h1 class="titre-bulle-pop-up"> Godwin Agbemavor<br>Assistant-Pasteur<br>Bruxelles</h1>
-        </div>
-      </div>
-
-      <div class="contenair-trombi-personne">
+      </div> -->
+      <!-- <div class="contenair-trombi-personne">
         <div class="img-trombi-personne-droite" style="background-image: url('img/corpsPastoral/');"></div>
         <div class="txt-trombi-personne-gauche">
           <h1 class="titre-bulle-pop-up"> Collins Iwe<br>Assistant-Pasteur<br>Bruxelles</h1>
-        </div>
+        </div> -->
       </div>
 
 
@@ -153,7 +134,7 @@
     <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
     <h1 style="color: white;position: relative;top:40%;font-size: 3rem;text-align: center;">Formulaire en construction (En attentesde directives)</h1>
   </div>
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     (function() {
 
       const idleDurationSecs = 240; // X number of seconds
@@ -177,7 +158,7 @@
       );
 
     })();
-  </script>
+  </script> -->
 
 </body>
 

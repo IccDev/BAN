@@ -109,7 +109,7 @@
       <h1 style="color: white;position: relative;top:40%;font-size: 3rem;text-align: center;">Formulaire en construction (En attentesde directives)</h1>
     </div>
   </div>
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     (function() {
 
       const idleDurationSecs = 240; // X number of seconds
@@ -133,7 +133,7 @@
       );
 
     })();
-  </script>
+  </script> -->
 </body>
 
 </html>
